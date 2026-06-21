@@ -1,0 +1,36 @@
+body{
+	background:#f2f2f2;
+	font-family:Arial, Helvetica, sans-serif;
+	margin:0;
+}
+
+#wrapper{
+	 width:1000px;
+	 background:white;
+	 margin:auto;    
+}
+
+
+
+#header{
+	background:#003366;
+	color:white;
+	text-align:center;
+	padding:30px;
+}
+
+#navigation{
+    background:#d9d9d9;
+    padding:15px;
+    text-align:center;
+
+#navigation a{
+    color:black;
+    text-decoration:none;
+    margin:20px;
+    font-weight:bold;
+}
+#content{
+    padding:30px;
+    line-height:1.6;
+}
